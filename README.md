@@ -1,1 +1,18 @@
-# lista-futbol
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@628000p.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@628000pb.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1756000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@1756000p.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1756000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@1756000pb.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2756000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@2756000p.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2756000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@2756000pb.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=5256000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@5256000p.m3u8?dw=80&ts=1622844000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=5256000,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080
+https://playback2.akamaized.net/streams/23200525_9699509_lsicvqdwbwqqhabuhg6_1/exp=1622932510~acl=%2f*~data=hdntl~hmac=141e4cad2f2e386a6a1090fff768526b7c71806f0897d4f70f35bb324d739781/media/23200525_9699509_lsicvqdwbwqqhabuhg6_1@5256000pb.m3u8?dw=80&ts=1622844000
